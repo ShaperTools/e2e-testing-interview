@@ -1,0 +1,23 @@
+{
+  "name": "e2e-testing-interview",
+  "version": "1.0.0",
+  "description": "Shaper E2E testing interview question",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaperTools/e2e-testing-interview.git"
+  },
+  "author": "jim@shapertools.com",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/ShaperTools/e2e-testing-interview/issues"
+  },
+  "homepage": "https://github.com/ShaperTools/e2e-testing-interview#readme",
+  "dependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.3.0"
+  }
+}
